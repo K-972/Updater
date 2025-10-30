@@ -1,0 +1,8 @@
+{
+  "version": "0.6.0",
+  "download_url": "https://github.com/you/your-repo/releases/download/v0.6.0/TrendDetector-v0.6.0.zip",
+  "download_sha256": "<optional sha256>",
+  "entry_point": "Trend Detector.exe",
+  "shortcut_name": "Trend Detector.lnk"
+}
+
